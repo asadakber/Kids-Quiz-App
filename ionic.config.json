@@ -1,0 +1,8 @@
+{
+  "name": "ionic3-kids-quiz",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
